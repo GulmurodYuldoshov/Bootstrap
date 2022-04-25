@@ -1,0 +1,25 @@
+body{
+    background-color: #004047;
+}
+.card{
+    background-color: #012F34;
+}
+.card img{
+    width: 96px;
+    height: 96px;
+}
+.btn{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+    width: 60px;
+    height: 60px;
+    text-align: center;
+    position: absolute;
+    bottom: -25px;
+    left: 50%;
+    transform: translateX(-50%);
+    background-color: #f67e7e;
+    border: #f67e7e !important;
+}
